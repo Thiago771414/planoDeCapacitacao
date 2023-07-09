@@ -18,7 +18,7 @@ Plano de ação: Com base nas necessidades de treinamento identificadas e nos re
 Ao utilizar uma planilha matriz como essa, a empresa pode ter uma visão clara das habilidades existentes em sua equipe, das lacunas de conhecimento que precisam ser preenchidas e dos recursos de treinamento disponíveis. Com base nessas informações, é possível criar um plano de capacitação eficaz e personalizado, garantindo o desenvolvimento contínuo dos colaboradores e o crescimento organizacional.
 
 ## Plano de capacitação
-![Imagem](https://img.elo7.com.br/product/main/372484E/pacot…as-e-treinamentos-em-excel-lean-manufacturing.jpg)
+![Imagem](https://www.litmos.com/wp-content/uploads/2022/12/hero-shield.png)
 
 ## Docker
 O Docker é uma ferramenta amplamente utilizada no contexto do DevOps devido à sua capacidade de fornecer ambientes de desenvolvimento consistentes, escaláveis e replicáveis.
