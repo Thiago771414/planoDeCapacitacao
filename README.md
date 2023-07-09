@@ -20,8 +20,7 @@ Ao utilizar uma planilha matriz como essa, a empresa pode ter uma visão clara d
 ## Plano de capacitação
 ![Imagem](https://www.litmos.com/wp-content/uploads/2022/12/hero-shield.png)
 
-## Docker
-O Docker é uma ferramenta amplamente utilizada no contexto do DevOps devido à sua capacidade de fornecer ambientes de desenvolvimento consistentes, escaláveis e replicáveis.
+## Documentação
 [Documentação1](https://trainingindustry.com/)
 [Documentação2](https://www.td.org/)
 
